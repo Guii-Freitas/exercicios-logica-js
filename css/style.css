@@ -1,0 +1,111 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+
+}
+
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn{
+
+    height: 5rem;
+    width: 20rem;
+    font-weight: bold;
+    font-size: 1.4rem;
+
+}
+
+div{
+
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding-bottom: 5rem;
+
+}
+
+.atividades{
+
+    height: 100vh;
+    width: 70vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding-bottom: 5rem;
+
+}
+
+.atividades h1{
+
+    width: 100%;
+    text-align: center;
+    color: black;
+    
+}
+
+.atividades .ifElse{
+
+    background-color: rgba(114, 114, 114, 0.5);
+
+}
+
+.atividades .aninhada{
+
+    background-color: rgba(128, 0, 0, 0.5);
+
+}
+
+.atividades .operadoresLogicos{
+
+    background-color: rgba(0, 128, 0, 0.5);
+
+}
+
+.atividades .exerciciosRepitaEnquanto{
+
+    background-color: rgba(0, 98, 128, 0.5);
+
+}
+
+.atividades .exerciciosPara{
+
+    background-color: rgba(128, 0, 107, 0.425);
+
+}
+
+.atividades .exerciciosAcumuladoresContadores{
+
+    background-color: rgba(109, 128, 0, 0.425);
+
+}
+
+.atividades .maiorMenor{
+
+    background-color: rgba(128, 119, 0, 0.623);
+
+}
+
+.atividades .repeticaoAninhada{
+
+    background-color: rgba(0, 128, 32, 0.404);
+
+}
+
+.atividades .vetores{
+
+    background-color: rgba(128, 19, 0, 0.404);
+
+}
